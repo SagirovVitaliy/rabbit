@@ -1,0 +1,13 @@
+HOST = 'localhost'
+
+QUEUE_NAME = 'Test'
+
+HOST_STR = 'Test'
+
+HOST_INT = 123
+
+QUEUE_NAME_INT = 123
+
+MESSAGE_STR = 'Тест'
+
+MESSAGE_INT = 123
